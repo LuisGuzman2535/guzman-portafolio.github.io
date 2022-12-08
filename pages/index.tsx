@@ -34,7 +34,7 @@ export default function Home() {
           <div className='text-center p-10 py-10'>
             <h2 className='text-5xl py-2 text-teal-600 font-medium md:text-6xl'>Luis Guzman</h2>
             <h3 className='text-2xl py-2 md:text-3xl dark:text-white'>Computer Science Engineering</h3>
-            <p className='text-md py-5 leading-8 text-gray-800 mx-auto md:text-xl max-w-xl dark:text-white'>Graduated of Bachelor's Degree in Computer Science with knowledge of software development and design.</p>
+            <p className='text-md py-5 leading-8 text-gray-800 mx-auto md:text-xl max-w-xl dark:text-white'>Graduated of Bachelor s Degree in Computer Science with knowledge of software development and design.</p>
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
             <a href="https://www.linkedin.com/in/luis-guzm%C3%A1n-b29322177/"><AiFillLinkedin /></a>
@@ -97,7 +97,7 @@ export default function Home() {
           <div>
             <h3 className='text-3xl py-1 dark:text-white'>Portafolio</h3>
             <p className='text-md py-2 leading-8 text-gray-800 dark:text-white'>
-              Since the beginning of my journey in my career, I've done some projects working with frameworks such as react, flutter and spring, also
+              Since the beginning of my journey in my career, I have done some projects working with frameworks such as react, flutter and spring, also
               my I have knowledge in Java, Dart, HTML, CSS and Javascript.
             </p>
           </div>
@@ -117,7 +117,7 @@ export default function Home() {
           <h3 className='text-3xl py-1 dark:text-white'>Certifications</h3>
           <a href="https://simpli-web.app.link/e/k0nQDHL2Avb"><h3 className='py-4 text-teal-600 text-2xl'>Java Certification Course</h3></a>
           <a href="https://www.udemy.com/certificate/UC-55297d5b-1b76-4527-a1b0-a5fd1ef9512d/" ><h3 className='py-4 text-teal-600 text-2xl'>Java Programming: Complete Beginner to Advanced</h3></a>
-          <a href="https://www.freecodecamp.org/certification/fccffbd99d5-0dd9-45b0-81fa-f86716719558/responsive-web-design" target={"_blank"}><h3 className='py-4 text-teal-600 text-2xl'>Responsive Web Design</h3></a>
+          <a href="https://www.freecodecamp.org/certification/fccffbd99d5-0dd9-45b0-81fa-f86716719558/responsive-web-design"><h3 className='py-4 text-teal-600 text-2xl'>Responsive Web Design</h3></a>
           <a href="https://platzi.com/p/LuisGuzman2535/curso/1474-oop/diploma/detalle/"><h3 className='py-4 text-teal-600 text-2xl'>PROGRAMACIÓN ORIENTADA A OBJETOS</h3></a>
           <a href="https://platzi.com/p/LuisGuzman2535/curso/1814-basico-javascript/diploma/detalle/"><h3 className='py-4 text-teal-600 text-2xl'>JAVASCRIPT</h3></a>
         </section>
