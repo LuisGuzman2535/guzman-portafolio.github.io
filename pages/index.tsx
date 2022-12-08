@@ -37,7 +37,7 @@ export default function Home() {
             <p className='text-md py-5 leading-8 text-gray-800 mx-auto md:text-xl max-w-xl dark:text-white'>Graduated of Bachelor's Degree in Computer Science with knowledge of software development and design.</p>
           </div>
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600'>
-            <a href="https://www.linkedin.com/in/luis-guzm%C3%A1n-b29322177/" target={"_blank"}><AiFillLinkedin /></a>
+            <a href="https://www.linkedin.com/in/luis-guzm%C3%A1n-b29322177/"><AiFillLinkedin /></a>
           </div>
           <div className='relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-20 overflow-hidden md:h-96 md:w-96'>
             <Image src={deved} layout="fill" objectFit='cover' alt={''} />
@@ -115,11 +115,11 @@ export default function Home() {
         </section>
         <section>
           <h3 className='text-3xl py-1 dark:text-white'>Certifications</h3>
-          <a href="https://simpli-web.app.link/e/k0nQDHL2Avb" target={"_blank"}><h3 className='py-4 text-teal-600 text-2xl'>Java Certification Course</h3></a>
-          <a href="https://www.udemy.com/certificate/UC-55297d5b-1b76-4527-a1b0-a5fd1ef9512d/" target={"_blank"}><h3 className='py-4 text-teal-600 text-2xl'>Java Programming: Complete Beginner to Advanced</h3></a>
+          <a href="https://simpli-web.app.link/e/k0nQDHL2Avb"><h3 className='py-4 text-teal-600 text-2xl'>Java Certification Course</h3></a>
+          <a href="https://www.udemy.com/certificate/UC-55297d5b-1b76-4527-a1b0-a5fd1ef9512d/" ><h3 className='py-4 text-teal-600 text-2xl'>Java Programming: Complete Beginner to Advanced</h3></a>
           <a href="https://www.freecodecamp.org/certification/fccffbd99d5-0dd9-45b0-81fa-f86716719558/responsive-web-design" target={"_blank"}><h3 className='py-4 text-teal-600 text-2xl'>Responsive Web Design</h3></a>
-          <a href="https://platzi.com/p/LuisGuzman2535/curso/1474-oop/diploma/detalle/" target={"_blank"}><h3 className='py-4 text-teal-600 text-2xl'>PROGRAMACIÓN ORIENTADA A OBJETOS</h3></a>
-          <a href="https://platzi.com/p/LuisGuzman2535/curso/1814-basico-javascript/diploma/detalle/" target={"_blank"}><h3 className='py-4 text-teal-600 text-2xl'>JAVASCRIPT</h3></a>
+          <a href="https://platzi.com/p/LuisGuzman2535/curso/1474-oop/diploma/detalle/"><h3 className='py-4 text-teal-600 text-2xl'>PROGRAMACIÓN ORIENTADA A OBJETOS</h3></a>
+          <a href="https://platzi.com/p/LuisGuzman2535/curso/1814-basico-javascript/diploma/detalle/"><h3 className='py-4 text-teal-600 text-2xl'>JAVASCRIPT</h3></a>
         </section>
       </main>
     </div >
